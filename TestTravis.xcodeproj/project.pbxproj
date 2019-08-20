@@ -14,7 +14,7 @@
 		41A48E3E230C957B00FD71B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41A48E3C230C957B00FD71B1 /* LaunchScreen.storyboard */; };
 		41A48E49230C957B00FD71B1 /* TestTravisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A48E48230C957B00FD71B1 /* TestTravisTests.swift */; };
 		41A48E54230C957B00FD71B1 /* TestTravisUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A48E53230C957B00FD71B1 /* TestTravisUITests.swift */; };
-		41A48E62230C969300FD71B1 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 41A48E61230C969300FD71B1 /* .travis.yml */; };
+		41A48E64230C9AD100FD71B1 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 41A48E63230C9AD100FD71B1 /* .travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		41A48E4F230C957B00FD71B1 /* TestTravisUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTravisUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A48E53230C957B00FD71B1 /* TestTravisUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTravisUITests.swift; sourceTree = "<group>"; };
 		41A48E55230C957B00FD71B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		41A48E61230C969300FD71B1 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
+		41A48E63230C9AD100FD71B1 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 				41A48E3A230C957A00FD71B1 /* Assets.xcassets */,
 				41A48E3C230C957B00FD71B1 /* LaunchScreen.storyboard */,
 				41A48E3F230C957B00FD71B1 /* Info.plist */,
-				41A48E61230C969300FD71B1 /* .travis.yml */,
+				41A48E63230C9AD100FD71B1 /* .travis.yml */,
 			);
 			path = TestTravis;
 			sourceTree = "<group>";
@@ -234,7 +234,7 @@
 			files = (
 				41A48E3E230C957B00FD71B1 /* LaunchScreen.storyboard in Resources */,
 				41A48E3B230C957B00FD71B1 /* Assets.xcassets in Resources */,
-				41A48E62230C969300FD71B1 /* .travis.yml in Resources */,
+				41A48E64230C9AD100FD71B1 /* .travis.yml in Resources */,
 				41A48E39230C957800FD71B1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
