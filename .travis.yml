@@ -1,0 +1,6 @@
+language: swift
+osx_image: xcode10.3
+xcode_project: TestTravis.xcodeproj
+xcode_scheme: TestTravis
+xcode_destination: platform=iOS Simulator,OS=12.4,name=iPhone Xs Max
+
