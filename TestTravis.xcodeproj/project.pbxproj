@@ -48,7 +48,7 @@
 		41A48E4F230C957B00FD71B1 /* TestTravisUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTravisUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A48E53230C957B00FD71B1 /* TestTravisUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTravisUITests.swift; sourceTree = "<group>"; };
 		41A48E55230C957B00FD71B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		41A48E61230C969300FD71B1 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
+		41A48E61230C969300FD71B1 /* .travis.yml */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.preload"; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
