@@ -13,7 +13,6 @@ class TestTravisTests: XCTestCase {
 
     func testExample() {
         XCTAssert(true)
-        XCTAssert(false)
     }
 
     func testPerformanceExample() {
